@@ -48,9 +48,9 @@ This project uses CMake.
 
   3. Configure CMake:
 
-    * Debug: `cmake -DCMAKE_BUILD_TYPE=Debug ..`
+     * Debug: `cmake -DCMAKE_BUILD_TYPE=Debug ..`
 
-    * Release: `cmake -DCMAKE_BUILD_TYPE=Release ..`
+     * Release: `cmake -DCMAKE_BUILD_TYPE=Release ..`
 
   4. Build: `cmake --build .`
 
